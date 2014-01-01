@@ -1,0 +1,4 @@
+Bugs
+====
+
+Please report bugs
